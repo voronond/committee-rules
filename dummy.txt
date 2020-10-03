@@ -1,2 +1,0 @@
-This is some dummy file
-the same as foo and bar

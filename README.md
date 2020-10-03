@@ -1,3 +1,0 @@
-# Committee (RULES)
-
-This repo is used for basic tests...
